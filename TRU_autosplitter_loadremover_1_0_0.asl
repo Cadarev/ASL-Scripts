@@ -1,6 +1,6 @@
 // Tomb Raider: Underworld autosplitter and load remover for Livesplit
 // Authors: Original script by FluxMonkii (twitter.com/fluxmonkii), expanded upon by Cadarev (twitter.com/cadarevelry, Discord: Cadarev#8544)
-// Thanks for advice and testing: Toxic_TT, rythin_sr, clove, Plastic_Rainbow
+// Thanks for advice and testing: Toxic_TT, rythin_sr, clove
 // Version 1.0.0 <3
 
 //Steam version
